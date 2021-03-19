@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/andre/Documentos/dio-dotnet-application/Dio.bank/Dio.bank.csproj",
+      "projectUniqueName": "/home/andre/Documentos/dio-dotnet-poo-lab-1/Dio.bank.csproj",
       "projectName": "Dio.bank",
-      "projectPath": "/home/andre/Documentos/dio-dotnet-application/Dio.bank/Dio.bank.csproj",
+      "projectPath": "/home/andre/Documentos/dio-dotnet-poo-lab-1/Dio.bank.csproj",
       "packagesPath": "/home/andre/.nuget/packages/",
-      "outputPath": "/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/",
+      "outputPath": "/home/andre/Documentos/dio-dotnet-poo-lab-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/andre/.nuget/NuGet/NuGet.Config"
