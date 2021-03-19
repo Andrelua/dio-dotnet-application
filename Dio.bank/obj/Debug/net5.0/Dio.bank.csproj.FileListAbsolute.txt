@@ -1,0 +1,16 @@
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/bin/Debug/net5.0/Dio.bank
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/bin/Debug/net5.0/Dio.bank.deps.json
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/bin/Debug/net5.0/Dio.bank.runtimeconfig.json
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/bin/Debug/net5.0/Dio.bank.runtimeconfig.dev.json
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/bin/Debug/net5.0/Dio.bank.dll
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/bin/Debug/net5.0/ref/Dio.bank.dll
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/bin/Debug/net5.0/Dio.bank.pdb
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/Debug/net5.0/Dio.bank.csprojAssemblyReference.cache
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/Debug/net5.0/Dio.bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/Debug/net5.0/Dio.bank.AssemblyInfoInputs.cache
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/Debug/net5.0/Dio.bank.AssemblyInfo.cs
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/Debug/net5.0/Dio.bank.csproj.CoreCompileInputs.cache
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/Debug/net5.0/Dio.bank.dll
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/Debug/net5.0/ref/Dio.bank.dll
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/Debug/net5.0/Dio.bank.pdb
+/home/andre/Documentos/dio-dotnet-application/Dio.bank/obj/Debug/net5.0/Dio.bank.genruntimeconfig.cache
