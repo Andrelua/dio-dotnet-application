@@ -59,6 +59,6 @@ namespace Dio.bank
             retorno += "Saldo: " + this.Saldo + " | ";
             retorno += "Crédito: " + this.Credito + " | ";
             return retorno;
-        } 
+        }
     }
 }
